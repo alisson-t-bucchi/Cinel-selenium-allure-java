@@ -1,0 +1,35 @@
+# Maven
+/target/
+*.log
+*.out
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+out/
+
+# Configurações sensíveis
+config.properties
+*.env
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Selenium drivers
+drivers/
+*.exe
+
+# Logs e dumps
+*.log
+hs_err_pid*.log
+
+# Arquivos temporários
+*.swp
+*.tmp
+*.bak
+
+# Relatórios de teste
+allure-results/
+allure-report/
