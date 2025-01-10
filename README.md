@@ -1,6 +1,6 @@
 # Selenium Test Suite for Cinel plataform
 
-This project contains an automated test suite using **Selenium WebDriver**, **TestNG** to perform tests on a web application and **Allure Reports*** for report generation. The tests involve login, interactions with the user interface, capturing screenshots at various stages of the test, and performing specific actions on the user profile.
+This project contains an automated test suite using **Selenium WebDriver**, **TestNG** to perform tests on a web application and **Allure Reports** for report generation. The tests involve login, interactions with the user interface, capturing screenshots at various stages of the test, and performing specific actions on the user profile.
 
 ## Prerequisites
 
